@@ -1,0 +1,6 @@
+transformers==4.21.0
+torch
+soundfile
+librosa
+SpeechRecognition
+Flask  # For API handling
